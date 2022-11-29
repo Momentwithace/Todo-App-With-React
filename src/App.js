@@ -108,7 +108,7 @@ function App() {
     />  
     
 
-    <div className='qoute'>
+    {/* <div className='qoute'>
     <p>
         Among the best moment of life, are those moment when you make out plans,
         and then watch them play out..
@@ -117,7 +117,7 @@ function App() {
         Write down a plan today....
       </p>
       <p>@momentithace</p>
-    </div >
+    </div > */}
       
     </div>
   );
